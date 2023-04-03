@@ -29,6 +29,10 @@
         <?php if ($role == 'Admin'): ?>
           Admin
         <?php endif; ?>
+        <?php if ($role == 'Service Social'): ?>
+          Service Social<br/>
+          <span>Boutaina</span>
+        <?php endif; ?>
         </a>
       </div>
     </div>
